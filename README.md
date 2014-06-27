@@ -1,4 +1,4 @@
-JakeAstin.github.io-
+JakeAstin.github.io
 ====================
 
 Personal Website
